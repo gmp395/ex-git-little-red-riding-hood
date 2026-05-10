@@ -37,8 +37,8 @@ Voy a ir haciendo commits poco a poco, siguiendo este orden:
 
 ## Enlace
 
-*(lo añado cuando active GitHub Pages)*
+https://gmp395.github.io/ex-git-little-red-riding-hood
 
 ## Captura del resultado
 
-*(la añado al final)*
+![Captura final](images/captura-final.png)

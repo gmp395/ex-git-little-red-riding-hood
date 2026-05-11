@@ -1,0 +1,18 @@
+nav {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: white;
+}
+
+nav h2 {
+    margin-bottom: 15px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}

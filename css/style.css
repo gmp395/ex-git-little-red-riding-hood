@@ -1,0 +1,46 @@
+@import "./reset.css";
+@import "./header.css";
+@import "./nav.css";
+@import "./chapters.css";
+@import "./footer.css";
+
+:root {
+    --color-primary: #c0392b;
+    --color-footer: #333;
+    --color-body: #fdf6e3;
+    --border-radius: 10px;
+}
+
+body {
+    font-family: Georgia, serif;
+    line-height: 1.8;
+    color: #333;
+    background-color: var(--color-body);
+}
+
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    header p {
+        font-size: 1em;
+    }
+
+    section h2 {
+        font-size: 1.4em;
+    }
+
+    section {
+        padding: 20px 15px;
+    }
+}
